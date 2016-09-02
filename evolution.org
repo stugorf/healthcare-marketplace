@@ -1,0 +1,802 @@
+* Week 1:
+** Introducing the Marketplace
+   - Health care triangle
+     - Cost
+     - Access
+     - Quality
+     - Cost should be minimized
+   - The majority of healthcare cost goes to Hospital Care
+   - Health care expenditures for private health insurance in the United States are predicted to _______ between the 2005 - 2020
+     - roughly double
+   - What would be a best definition for “clinical quality”?
+     - Health outcomes are improved, based on a test
+   - Which of the below is NOT an example of an influence that affects access to healthcare?
+     - Physician specialty
+** Pre-War Sector Evolution
+   - System is not broken, its the result of a lot of well intended people over time
+   - 1910
+     - Flexner worked with Johns Hopkins and graged med schools in 1910 and picked whichwould survive
+     - New tech like radiology, FDA initial birth, pharmaceuticals (pills)
+   - 1920
+     - antiseptic medicine
+     - under Wilson establish 1st National Health Insurance
+     - 1887 German was first NHI in a country
+   - 1920-1930
+     - hospitals and doctors underutilized
+     - Blue Cross in Baylor as University initiative origin in TX (1929)
+     - Pre-paid group practices such as Kaiser, GH of Puget Sound
+     - US FDA is created in 1930
+     - VA established 1930
+       - not part of DoD
+       - after WW I needed separate funds than those for war
+   - 1930-1940
+     - AMA waged war on hospital based group practices
+       - paid more money lobbying against group practices and socialized med
+       - needed money by dues from individual physicians
+     - philanthropist subsidized academic medical centers
+     - sulf drugs to treat TB and penumonia
+     - 2nd attempt NHI through Roosevelt New Deal
+   - 1940-50
+     - antibiotics
+     - Hill-Burton act of 1946 funds hospital and nursing home construction
+     - proliferation of employer sponsored health insr in 1943
+       - $260B year industry
+     - WW II
+     - McCarran-Ferguson act allows health insr to only be sold at state level
+     - 3rd attempt at NHI by Truman administration but fails (closest ever)
+** Post WW II
+   - 1950-60
+     - national income increasing
+     - increases in federal support for medical research
+     - FFS medicine and pt driven
+       - insurers paid whatever physicians asked
+     - employer sponsored health insr expansion w/ Revenue Act of 1954
+       - tax free benefit
+   - 1960-70
+     - genetic research starts
+     - Genetech in bay area
+     - educational subsidies for edu
+     - CMMS passsage as comprimise to NHI; started by Johnson admin
+       - helped aged and poor
+       - effect hospitals and physcians
+     - Harris-Kefauver Drug Act
+   - 1970-80
+     - medical arms race
+     - competition that drives health care cost
+     - HMO Act (1973); termed by MD in Minnesota that establishes a gatekeeper before going to hospital and specialist
+     - hospital inflatino rapidly increase
+     - cost based
+     - ERISA in 1974 employeers get to run expempted plans from state regulation
+     - Passage of certificate of need: rate setting by government
+     - Nixon NHI attempt but legislation not passed w/Ted Kennedy
+   - 1980-90
+     - HIV crisis
+     - double digit inflation drives Medicare PPS (prospective payment system)
+       - instead of charges payment is cap of dollars per admit
+     - tech and incentives shifts from inpatient to outpatient
+     - Waxman-Hatch promotes generic drugs
+   - 1990-Present
+     - increasing obesity 30% by 2002
+     - diabetes increases
+     - Clinton Health Security Act fails
+     - Managed care penetration shift to payer driven
+     - significant entry and exit of Medicare HMO
+     - medicaid 70% now coroporate managed
+     - provider consolidation
+     - managed care nightmare
+     - Balanced budget act of 1997 cuts Medicare payment rates
+     - Nursing shortages
+     - Pharmaceuticals
+       - drug rebates for Medicaid 1991
+       - PBMs contract drug; away from privae to contractors
+       - direct to consumer advertising permitted 1997
+       - Medicare Part D 2006; perscription drugs for seniors
+   - 1990-2015
+     - Health Insurance Portability & Accountability Act (HIPAA) (1996)
+     - managed care backlash
+     - State children's health insr program 1997
+     - Medical saving accounts MSAs 1996
+     - Consumer driven health plans (CDHP in 2001)
+     - Health Savings Account (HSA)in 2003
+     - Health insr cost almost $10K per family or $4000 per indiv by 2004
+     - uninsured rise to 44 million
+     - $15K per family, 50+ million uninsured
+     - Patient Protection and Affordable Care Act (PPACA or ACA) passes March 21st, 2010
+     
+** Health Care Cost Growth
+   - 1990-2022
+   - 18% GDP today
+   - 5.7% national health expenditure growth (NHE)
+   - GDP decreasing and NHE increasing
+   - should be better alignment moving forward
+   - Supply Drivers of expenditure
+     - ageing pop
+     - imperfect info
+     - monopolies
+     - tech change of always something new
+   - Demand
+     - access to insur
+     - 90% have access
+     - tax advantage
+     - preference for tech in health care
+     - Health behaviors are expensive such as obesity
+   - Control
+     - limit hosp inputs
+     - Utilization Management by Insr and employeers
+     - Rate setting by gov or insr and setting how much they will pay
+     - DRG dx related groups; prospective payment of inpatient hosp stay
+       - only pay by admission rather than by day
+     - Managed care w/gatekeeper by primary care physician
+
+** Key Issues for 21st Century
+   - tech
+     - we in US prefer tech solutions
+   - pop demographics
+     - ageing pop, lower fertility
+   - health & life styles
+     - poor habits
+   - production of health drivers
+     - health care system only 25% of system
+     - zip codes (lottery like)can determine options
+     - genetic lottery can provide good genes
+     - lifestyle can harm health
+   - Demographics
+     - 1942-65 baby boom moving through
+     - people living longer
+     - more 85+ than before
+     - lower fertility
+     - who will take care of older pop
+     - in 2050 more female than male
+** Effects of Health Behaviors
+   - Health Bad
+     - economist define as something people to that drive cost up
+     - externalities: case in which consumer affects cost of another. Unintended consequences. Example is power is great but coal burning bad for planet.
+     - Market failure
+       - subsidies for flu shots for example can control flu cost
+       - taxes on cigarettes to reduce cost associated with smoking
+     - Smoking
+       - 90% lung ca from smoking
+       - copd, heart disease, stroke, ca
+       - 435K deaths from year but getting better
+     - Obesity
+       - 400K deaths in 2000
+       - $75 Billion in 2000 and tripled in 2016
+       - getting worse
+       - cheap food and sedentary behavior
+     - Excessive alcohol consumption
+       - 100K deaths from 2000
+       - not getting better
+       - motor vehicle accidents
+*** Assignment
+**** Name three issues why Fortune 100 firm executives (i.e., big Business from the Marketplace Landscape map) care about the medical industry.
+
+Three potential medical industry issues of concern for Fortune 100 business include 1) healthcare payment reform, 2) rapidly advancing medical technology, and 3) rising pharmaceutical cost. All three of these issues can affect employer cost for employee health care. This can be in the form of employer insurance or contracts with private insurance coverage. These issues can also impact employee recruitment and retention as companies compete for talent. Both payment reform and advancing tech have the potential to increase the cost for an employer as does uncontrolled or increasing subsidized medication cost.   
+
+**** What are two market conditions or regulations that could affect the issues? Describe and explain.
+
+Medical technology reliance in our culture and an aging population present specific challenges for the issues raised in the first question. Our reliance and preference for a technical solution for health conditions creates a direct link to rising tech cost and corporate/individual experienced medical cost. This reliance also dilutes our motivation to seek healthy behaviors over a technical solution. The fact that our population is aging while our fertility rates are decreasing creates increased pressures on the health care system. These pressures will likely be realized in increased needs to impose utilization management and resource allocation. Limited resources will not only be in the form of tangibles such as medications and access to care but also lower numbers of a younger generation of health care providers.
+
+**** In what way might the three issues (that you identify in #1) diminish or not in the next five years? Why and how? To what extent? In what way? etc. Describe and explain for each.
+
+The three issues raised in question #1 are unlikely to diminish. The health care payment system has become untenable and already experiments with ACOs, bundled payments and other forms of novel contracting are proceeding. The early data does not identify a clear path forward but it is clear that the current model is no longer working. Technology innovation is moving forward at a rapid pace. Some of the technologies have resulted in gains for patients and providers towards better outcomes with greater efficiencies in health care delivery. However, innovations in technology have also created challenges. We now have an expanding reliance on data and the clinical intelligence it can provide. However, we have not figured out how to manage the vast amounts of this clinical data and more significantly how to develop user interfaces to empower providers to meaningfully interact with clinical data. Lastly, pharmaceutical cost remain largely uncontrolled. While the rising cost of drugs have been in the news throughout 2016 there remains an opportunity to enact controls to cap cost growth and even re-envision the cost of drug R&D and the compensation to companies making the investment.
+
+* Week 2: Health Care Delivery Evolution
+** Provider Market Overview
+   - Physicians set tone for much of healthcare
+   - Johns Hopkins in MD sets the tone for med profession in training of MDs
+     - 4 yr bach degree and then advanced 2yr basic and 2yr practical
+     - started modern med edu model
+     - now in 21st century with advanced tech, physicains still in charge
+   - Monopolies do allow for substitues or alternatives
+   - Barriers to entry
+     - legal ones are public franchise
+     - exclusive control of franchise
+     - Government license contols entry
+     - patents and copyrights
+   - Natural barrier
+     - economies of scale
+   - Price discrimination
+     - set prices, sale same good at different price based on what markets can bear, academic rate, corporate
+   - Single Price Monopoly
+     - same price for each unit sold
+   - Price discriminations
+     - example: HCA charges less for health care based on geographic location
+     - but acceptable due to local cost of providing care
+     - attempt by a monopoly to capture consumer surplus
+     - Price and quantity  is consumer surplus. Market price is value of good minus price paid for it
+     - Other forms
+       - bulk pricing
+       - by individual by what willingness based on time, location, demand
+       - between groups such as medicare, medicaid, private insr
+       - illegal in other countires
+     - Perfect price discrimination
+       - charge everyone just their willingness to pay
+       - auctions are an example
+       - gains all of consumer surplus
+   - Examples
+     - two office in different locations
+     - emergency vs. non
+   - Limits
+     - consumers must be unable to resell
+       - like buying in Canada and then reselling in US
+     - firms must be able to identify different demand groups
+** Price Discrimination in Practice
+   - Example
+     - one price per visit
+     - some people cannot afford set price
+     - establish demand curve for groups with/without insr
+     - graph P & Q curves
+     - discriminating for price will increase volume and profit
+       - overall
+** Physician Market Evolution
+   - important to look at hx of market
+   - 1900-30
+     - social transformation of american medicine by Paul Starr (1982)
+     - escaping from corporations that were trying to hire physicians
+       - better and provided physician autonomy
+       - free agents
+       - did not want to work for company such as railroads (were the largest at the time)
+       - Consumer club concept limited pts to only certain members
+	 - similar to labor unions
+       - Private group practice
+	 - AMA would be loosing revenue since not all would pay AMA dues
+     - Mayo Clinic
+       - was not well loved at the time by AMA
+       - was a group practice that owns hospitals
+       - provided care to railroad employees
+       - known for skill and low mortality rates
+       - really good at dx and selective in hiring providers
+       - Dad and Williams & Charles Mayo
+     - Other Changes
+       - integrated practices
+       - Flexner report(1910) indicated med school for 6mo was enough, needed 4yrs college and 4yrs med school
+	 - limited supply of physicians
+       - appeal for salareid work by young md
+       - WW II & Antibiotics with resulting emphasis on biology
+     - 1950 hey day for FFS
+     - 1960 CMMS
+     - 1970 Managed care to put physicians in charge of overal cost system
+     - 80s DRGs and inpatient cost control
+     - 90s Fee schedules, salary reduction, loss of autonomy
+       - still making the most in salary at the time
+** Physician Sites of Care
+   - Inpatient
+   - Outpatient
+     - ER, clinic, office
+   - Long Term Care
+   - Ambulatory
+     - last two decades enormous shift from inpatient to out
+     - hospitals stays decreasing due to DRGs paying per admission rather than day
+     - Site
+       - Office is highest
+       - non-white more care in ER and outpatient
+       - By income
+	 - poor go to outpatient and ER
+	 - wealthier go to physician office
+       - Most is urgent (33%), then emergent, unknown, semiurgent
+     - Change in surgery site in 94-1998
+       - ambulatory was same but due to laproscopic procedure inpatient dropped.
+       - dominate type was cosmetic, optho (lasix), pain and GI and ortho is continuing to grow at ambulatory centers
+*** Quiz results
+1. 
+What are some required elements in order to have a monopoly on an item/product?
+
+competitive prices
+Correct Response 
+Competitive prices not what you would expect in a monopoly. Review video lesson 2.1.1.
+
+no close substitutes
+Correct Response 
+
+barriers to entry
+Correct Response 
+
+high school education
+Correct Response 
+Education always helpful - but not sufficient for this question. Review video lesson 2.1.1.
+
+Correct
+1 / 1 points
+2. 
+Which of the below examples is an example of a NATURAL barrier to entry in the Healthcare Provider Market?
+
+Public franchises (e.g. U.S. Postal Service)
+
+Governmental licenses (e.g. medial, insurance companies, etc.)
+
+Patents and copyrights (e.g. pharmaceuticals)
+
+Economies of scale (e.g. electric power)
+Correct Response 
+
+Correct
+1 / 1 points
+3. 
+What entity was one of the biggest ‘customers’ for physicians in the early 1900s, due to the number of injuries its workers frequently received?
+
+Blacksmiths
+
+Cotton gin repair people
+
+Railroads
+Correct Response 
+
+Buggy makers
+
+Correct
+1 / 1 points
+4. 
+In general, hospital stays (durations) are:
+
+increasing
+
+decreasing
+Correct Response 
+
+staying about the same
+
+Correct
+1 / 1 points
+5. 
+Within the last two decades, there has been a shift from __________ to ________ care.
+
+outpatient, inpatient
+
+inpatient, outpatient
+Correct Response 
+
+insurance paid, cash paid
+
+case paid, insurance paid
+** Physician 21st Century
+   - patient safety and malpractice
+   - changing insr
+   - less managed care
+   - aging pop
+   - EMRs
+   - patient safety
+   - Pay for Performance PFP
+** What is a Physician
+   - healer, shaman, surgeon, priest, monopolist, worker,...
+   - Role
+     - tinker, broker, financier, spy
+   - Tinker
+     - invent new tech
+     - work w/pts to cusomize solutions
+     - create new professions
+     - create new science based on exp w/pts
+     - create new orgs
+       - AMA, journals. insur
+     - run med schools and tailor graduating MDs
+   - Broker
+     - certify med providers
+     - gatekeeper to academic med cntr by referral
+     - trad info to other MD such as trade secrets
+     - set prices and negotiate
+     - set CPT in FFS medicine
+   - Financier
+     - entrepreneur
+     - build specialties and sub
+     - lead dev of new institutions
+     - new bench science
+     - incubator for med tech
+   - Spy
+     - Jack Lindberg was first to identify med erros as national problem
+       - also identified practice variations as adverse affect on health care system
+       - are med-mal experts in court
+       - work for insr to determine inaapropriate or unsafe care
+       - decides quality of care
+   - Prognosis
+     - cost a lot to produce MD
+     - huge lobby effort
+     - demand for service will only increase
+     - they create the product of medicine
+*** TODO Get book on Jack Lindberg
+    :PROPERTIES:
+    :CREATED:  [2016-09-01 Thu 14:50]
+    :END:
+*** TODO social transformation of american medicine by Paul Starr (1982)
+    :PROPERTIES:
+    :CREATED:  [2016-09-01 Thu 14:55]
+    :END:
+** Hospital Market Evolution
+   - number one sympbol of medicine
+   - 1750-1890
+     - a place to die to place to get well
+     - 20s get better than 50% of discharge
+     - become wards from homes
+     - social structure focus on culture, religious
+     - no philanthropy
+   - doctors working w/hospitals had to choose who to work for
+   - nurses were woman who did not marry or were from church
+     - advances in clinical knowledge
+     - Lister discovered microbes
+     - diagnositic tools revolution in late 19th century
+   - Particularistic hospital treated only one group by race, religion
+     - driven by immigration
+   - Today
+     - physician, admin, trustee
+     - admin is generally quality and admin
+     - trustee may be religous or gen guidance
+     - Consumerism
+   - 1930s Depression
+     - private hosp serious under util
+     - AMA war on group practice
+     - socialized perceptions
+     - hosp get deal
+     - Public works progress
+   - 1940s
+     - advance in tech like sulfa
+     - income increases
+     - prolif in private insrr
+     - 1943 wage freeze
+     - 1946 Hill burton
+   - 1965
+     - Medicare & Medicaide
+     - FFS and cost based reimbursement
+     - medical arms race for pts and physicians
+     - little evidence for value of new tech
+     - pts and doctors shopping for care while govt picks up the bill
+   - 1970
+     - cost are spiraling
+     - experiments in rate setting by state
+     - certificate of need
+     - caps on cost
+     - state health planning
+     - major recession
+     - Medicare Prospective Payment in NJ and became DRG system
+       - put hosp at risk by fixing rate by DRG and only get paid by dx
+   - 1990
+     - payer driven competition rather than pt and benefits insr
+     - insr selective contracting with most cost effective providers
+     - Advances in tech from inpt to outpt where DRGs regulated inpt
+     - Changes in market structure such as economies of scale,scope, behaviror
+** Hospital Featurs Today
+   - size, ownership, locations, teaching?, scope of services, integration
+   - public commmunity hosp has been declining since 1990 by 300 institutions
+   - decreasing beds
+     - levels off at 2001 which suggest really were too many beds
+   - 3500 hosp in US
+   - Academic have med schools attached
+   - Teaching have affiliation with AHC (academic)
+   - AHC have more tech
+   - Trauma 1 at AHC
+   - Rural hosp
+     - NE cluster and FL
+     - SF, SD, LA concentration
+   - Critical Access Hosp
+     - Medicare distinguishes title
+     - exempt from DRG system
+       - paid per day
+     - urban hosp buy or align with Critical Access Hosp for financial adv
+** Hospital Scale and Scope
+   - Scope
+     - general vs speciality
+     - short term vs. long term
+     - federal vs. non-federal
+       - VA or Indian Health
+     - Community Hosp
+       - inpt stay is decreasing and discharge is going up
+       - greater use with less duration
+     - Utilization
+       - inpt admit going down
+       - outpt down
+       - perspcrpt going up
+     - Uncompensated care
+       - 2004 since is doubling of cost
+     - Horizontal integration
+       - community hosp coming together through M&A
+       - increasing with >50% integration
+   - Industry Structure
+     - HCA largest
+   - Vertical Integration
+     - link different stages of care
+     - take on more types of procedurs
+     - horizontal integration can become platform for vertical integration
+   - Non-Profit
+     - Ascension at top
+     - termendous number is religious
+   - Size does not always max net
+     - VA is largest non-profict with 172 institutions
+     - 
+** Hospital Issues Today
+   - quality & pt saftey; prevent law suit
+   - capacity
+   - financing: medicare payment for outpatient
+   - uncompensated care
+   - competition and shopping consumerism due to high deductibles
+   - Capacity
+     - beds capacity getting smaller
+     - 85% occupancy rates
+     - regulations prevent new beds but allow in system mergers
+     - driven by consolidation
+     - 2015 onward a lot of M&A
+     - 1000+ hosp closures by 2025
+     - tech is reducing bed needs
+     - medicare reimbursment and managed care
+     - aging pop but without replacement will be dimensishing problem
+   - What is a bed
+   - licensed is what is reported to state
+   - outpt swing beds input to hosp produciton
+   - Occupancy is avg beds with pts
+   - inpt bed converted to outpt bed is called swing bed
+   - Right # of beds
+     - too few and max input, nurse burnout
+     - too many and cost of empty beds
+   - Too few
+     - unit level, ed, icu
+     - hosp location, demographics, variation in utilization
+     - 46% more beds by 2027 without tech that could adjust projected need
+     - labor shortages
+     - Normative = 'ought to be this way'
+     - Need based due to incidence, procedures #, physician time
+     - labor market equilibrium where wage and supply and demand considered
+   - Shortages
+     - dynamic is temp
+     - lag in information
+     - goal is < 5%
+     - rising nurse wages
+     - Static is long term
+     - vacancies
+     - wages do not rise
+     - aging pop dies out and no new business
+   - Supply of Nurses
+     - new and re-entrants vs. retirees and exit
+     - Lags in RN resulted in up/down of wages and entrants into nursing
+     - Policies such as education subsidies, staff ratios, quality
+       - minimum staffing
+       - CNA vs. RN
+       - training cost
+       - $200K per RN in some cases
+** Quality & Safety
+   - measured using structure, process, outcome
+     - structure are checklist...do you have
+     - process is did you get exam if...
+     - outcomes are did you get better
+       - very challenging to measure
+   - Quality
+     - clinical and consumer satisfaction
+   - Safety
+     - avoidance, prevention and amerlioration of adverse outcomes
+     - do not cause harm
+   - Production of hospital services
+     - complex
+     - labor market is complex
+   - Errors
+     - wrong pt, med, dose, route, time, omission
+     - Rogers (2004) showed long nurse shifts leads to error
+   - IOM Six Aims for improvement
+     - safe: avoid injuries
+     - effective: scientific knowledge available at the time
+     - patient centered: respectful and responsive
+     - timely: reducing waits and delays
+     - efficient: avoid waste
+     - equitable: regardless of pt demographic
+   - Leapfrog Group
+     - started in 2001
+     - lage employeers
+     - 34 million american covered lives
+     - demanded computers in healthcare
+     - evidence based referral
+     - ICU staffing
+     - quality index of 27 safe practices
+     - questions around who pays for health policies
+   - Error communication
+     - concerns are serious,minor and near miss
+     - within private means well communicated
+     - not reported publically
+     - near miss not well commmunicated
+     - self policing and not revealing everything
+
+*** Quiz Results
+1. 
+In which type of competition paradigm do insurance companies currently have advantage in the U.S. healthcare marketplace?
+
+patient-driven
+
+physician-driven
+
+payer-driven
+Correct Response 
+
+trustee-driven
+
+Correct
+1 / 1 points
+2. 
+The distinction of critical access (hospital) is made by...
+
+medicaid
+
+physicians
+
+insurance companies
+
+medicare
+Correct Response 
+
+Correct
+1 / 1 points
+3. 
+The number of public community hospitals in the U.S. is:
+
+increasing
+
+decreasing
+Correct Response 
+
+staying about the same
+
+Correct
+1 / 1 points
+4. 
+Quite a few of the top 10 non-profit health systems in 2014 were associated with:
+
+private firms
+
+major corporations
+
+religious organizations
+Correct Response 
+
+government agencies
+
+Correct
+1 / 1 points
+5. 
+One way hospitals seek to mitigate lawsuits is through investments in:
+
+specialty hospitals
+
+information technology
+Correct Response 
+
+clergy contracts
+
+luxury catering
+
+Correct
+1 / 1 points
+6. 
+When a physician make an error, reports show that a physician is most likely to communicate about it with:
+
+their patients
+
+their colleagues
+Correct Response 
+
+the hospital’s risk management division
+
+a patient safety program
+** Hospital Future Trends
+   - financial outlook pretty good
+   - total & operating margins
+     - lands, business
+     - negotiated rates with private insr and medicare rates
+     - labor cost
+     - uncompensated care which is covered by organization/institution
+       - bad debt
+       - Hill-Burton does give up to 3% of cost back
+       - legal obligations for NFP not for profit
+       - linked to uninsured
+     - Cross subsidization
+       - medicare & medicaid only pay certain rate tied to inflation and sustaing for years
+       - hosp knows certain amount of cost cannot be afforded so it raises prices for private insr pts
+       - lower govt prices drive private payer prices
+       - in some cases 40% increase in cost and private cost went up three fold to cover compensation for govt pay rate = 300%
+     - Competition
+       - 
+** Policy Impacts on Hospitals
+   - now is payer driven competiton
+   - back to the future where high deductibles make pt cost concisous
+   - hosp compete on specialties but now on access, quality ER
+   - other providers such as specialty hosp, physician owned sites, policy response = too much $ in one area so law will lower compensation in that area
+   - Ambulatory sugery centers ASC
+   - low barrier to entry and cost are lower
+** Policy Impact on Hospitals
+   - ACA in 2010 has changed provider market
+   - CMS Innovation Center in 2011 can put to congress a vote
+     - should speed adoption
+   - Medicare/Medicaid efforts and pilots
+     - test payment models
+     - medical home with chronic condition
+     - bundled payment by episode with single fee and provider holds risk
+     - value based purchasing based on quality metrics
+     - medicare incentive/penalties to reduce hosp readmit
+   - New Mandates
+     - strength hospice coverage for children
+     - ACO: like a medical home where can involve whole hosp
+     - states can paraticipate in reforms
+     - program integrity to prevent fraud
+   - ACO
+     - paid on populaiton basis
+     - PMPM (pt will only go to hosp system and per memeber per month)
+     - EMR must be used
+     - outcome focus
+     - treat in community
+     - has not been proven as sustainable
+     - Hospital risk and opportunity
+       - Neuro, cardiology (invasive), ortho, general surg, radiology
+       - Bad: GI, Peds, Psych, Opth
+     - Insurers demand FFS but providers hate FFS
+     - Insur want data from EMR but provider want PFPorformance
+     - Ends up back to FFS
+     - uncertain future for ACO
+     - must have EMR and Claims data if ACO is to work
+   - Future Tourism?
+     - cost in other countires for same procedures is 4-8 times less
+     - US market is insr only while foreign is cash only
+     - Cash has kept cost closer to market ability/sustainability
+*** Practice Quiz
+1. 
+If hospitals shift costs (to account for lower Medicare payments) they will seek to make up the difference with:
+
+Private insurers.
+Correct Response 
+The trick will be to what extent private insurers will allow it.
+
+Veteran's Administration payments.
+
+0.7 / 1 points
+2. 
+Physicians are giving hospitals competition by opening?
+
+Ambulatory surgical centers.
+Correct Response 
+
+Food trucks adjacent to hospital cafeteria.
+Correct Response 
+Not a bad idea, but not a real threat.
+
+Free-standing diagnostic imaging centers.
+Incorrect Response 
+
+Correct
+1 / 1 points
+3. 
+What are two specialties dominating physician-owned ambulatory facilities?
+
+Orthopedics
+Correct Response 
+
+Psychiatry
+Correct Response 
+While important, it is not as lucrative as other procedural therapies. Review video 2.4.1.
+
+Cardiac
+Correct Response 
+
+0.3 / 1 points
+4. 
+Uncompensated care for a hospital is paid by the:
+
+Hospital
+Correct Response 
+Hospital has to pay from it own reserves.
+
+Insurer
+Incorrect Response 
+Insurer would pay high rates charged by hospital.
+
+Patient
+Incorrect Response 
+Patient would pay with higher charges to cover losses as well as tax subsidy to non-profit hospitals to provide hospital resources to cover uncompensated care.
+
+Correct
+1 / 1 points
+5. 
+What factors allow physician-owned facilities to compete with hospitals?
+
+Low barriers to entry.
+Correct Response 
+Laparoscopic surgery and portable image machines do not need a lot of space.
+
+The uninsured.
+Correct Response 
+While important as a policy issues, they don't specifically affect how new market entrants will fare.
+
+High patient demand for specialized services.
+Correct Response 
+More demand always better for new substitute services away from hospital - like demand for orthopedics from baby boomers.
+*** Final Quiz
+* Week 3: 
