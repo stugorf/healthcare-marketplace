@@ -799,4 +799,611 @@ High patient demand for specialized services.
 Correct Response 
 More demand always better for new substitute services away from hospital - like demand for orthopedics from baby boomers.
 *** Final Quiz
-* Week 3: 
+* Week 3: Insurance Market
+** What is Health Insurance
+*** Overview
+   - is not cash bases unlike some other countries
+     - even in other countries there is a migration to insurance
+   - Types
+     - FFS (fee for service) BCBS
+     - HMO: Kaiser
+     - Medicare & Medicaid
+     - ACA
+*** Risky Business
+    - making decisions under uncertainty
+    - Risk
+      - probability of 0-1 of good vs. bad
+      - estimates allow predictions
+    - Cost of risk
+      - some are risk takers
+      - consider behaviors and associated risk
+      - depends on access, age, money
+*** Utility of Wealth
+    - Given an individual measure wealth vs. Utility (hapiness)
+      - curve increases with wealth but flattens after $3,000 per month
+      - people value things more at lower levels of income
+    - Translating utility to Expected Utility (EU)
+      - avg set of outcomes
+    - Choices Under Uncertainty
+      - compare choices and resulting income with expected utility
+      - higher risk creates risk aversion
+      - flattening utility curve makes risk aversion past higher incomes
+    - Risk Aversion
+      - amount willing to be traded for marginal income increase
+    - Risk Neutrality
+      - utility is same for any income
+    - Reduce risk
+      - insurance can reduce risk but cost an insurance premium
+      - insurance takes risk
+      - consumer's income not expoosed if risk is covered by insurer
+*** How Does Insurance Work
+    - Pooling risk
+      - pool collective risk
+      - some will pay more than they need to in order to avoid risk
+      - uncertainty of 0-1
+      - going from 10 -> 9 income then max cost of insurance is 1K
+      - value in this case is variable based on individual
+      - insurance attempts to cost insurance with profit above minimum cost
+*** Moral Hazard and Adverse Selection
+    - individuals prefer to keep healthcare information private
+    - restriction of health information can create a risk
+    - Moral Hazard
+      - one or more of two parties with agreement has incentive to bring benefit to themselves at the cost of another
+      - for example an individual may not disclose health conditions to insurance company and risk assumed by company was not properly predicted/costed
+	- could lead to insurance company failing and every insured life not getting coverage
+      - Adverse Selection
+	- lack of full disclosure
+	- enter into agreements without full disclosure but not planning to use system or take advantage
+	- mitigate risk
+	- insured people have fewer incentives to avoid loss
+	- companies mitigate risk by reviewing health hx, age, gender, predictive actuary tables
+	- Review signals that indicate decernable risk
+	  - cost insurance appropriately to assume risk for avg of all insured lifes
+**** Quiz Prep 
+ Close
+ What is Health Insurance?
+ 5/5 points earned (100%)
+
+ Excellent!
+ Retake
+ Course Home
+
+ Correct
+ 1 / 1 points
+ 1. 
+ What is risk?
+
+ Something you live with.
+
+ The probability of incurring a loss.
+ Correct Response 
+
+ A gambler's curse.
+
+ Correct
+ 1 / 1 points
+ 2. 
+ What is a probability?
+
+ A number between 0 and 1 that measures the chance of an event.
+ Correct Response 
+
+ An engine of chance and change.
+
+ The stuff of Vegas.
+
+ Correct
+ 1 / 1 points
+ 3. 
+ If an insurance company charges a premium of $4,000 and cost of a minimum risk of insurance is $1,500, what is the insurer's profit?
+
+ $500
+
+ Insurers don't make profit.
+
+ $2,500
+ Correct Response 
+
+ Correct
+ 1 / 1 points
+ 4. 
+ Moral Hazard is defined as:
+
+ When one of two or more parties with an agreement has an incentive after the agreement is made to act in a manner that brings additional benefits to himself or herself at the expense of the other party.
+ Correct Response 
+
+ When only one party with a contract has an incentive after the agreement is made to act in a manner inappropriately.
+
+ When someone withholds information.
+
+ Correct
+ 1 / 1 points
+ 5. 
+ Adverse selection is when:
+
+ Cheating on an exam.
+
+ The tendency for people to enter into agreements in which they use private information to their own advantage and to the disadvantage of the less informed party.
+ Correct Response 
+
+ Moral hazard occurs.
+
+** Evolution of Health Insurance
+*** Early Public Health Insurance
+   - Social Transformation of American Medical Care by Star
+   - Public Health Insurance by Govmt
+     - started in Germany by Kaiser and Otto van Bismark 1883
+     - employees contributed
+     - Followed by second wave in Europe in 1909 in Norway
+     - Mutal Benefit Societ in 1910 in France
+     - 1914 WW I most of Europe has social health
+   - US tried in 1918
+     - again in 1935-36 but AMA negotiated to squash it
+     - 1948 Truman was close to passing post WW II but politically blocked
+     - 1974 Nixon tried mandating w/employers
+     - 1993 Clinton tried using private insurance but failed
+   - Successful Partial National Coverage
+     - 1966 Medicare (aged & disabled)
+     - 1967 Medicaid (poor)
+     - 1972 Medicare for end stage renal disease
+     - 1997 SCHIP for children via Medicaid
+     - 2014 ACA
+*** Early US Private Insurance
+    - FFS
+      - Baylor University started Blue Cross (hospital insur) in 1929
+      - Blue Shield (physican insur)
+    - Prepaid Group Practice
+      - Kaiser was building ships in 1937 and needed healthcare for workers
+      - sell care also to non-workers living in area
+    - Group Health in 1937 and sold to Humana
+    - Blue Cross
+      - reimburse hosp on cost + model
+    - community rating would modify payment (total cost / membership) regardless of individual conditions or income
+    - Insurance should cover all medical cost
+      - was cheap initially
+    - Pay as you go
+      - paying based on experience of what community cost have been hx
+    - Cost +
+      - hosp pay 40% of cost
+      - Medicare adopted BC cost and resulted in more expensive cost
+    - Insur should cover all cost (ended 30 yrs ago)
+      - no deductibles, no co-pay, no co-insurance
+      - was possible because cost were lower
+    - Community Rating
+      - varied by where you lived
+      - adverse selection: for example individual is very sick can drive cost for community
+      - can generate a death spiral
+    - Pay as you go
+      - insur company has to operate w/reserves to cover risk
+      - unexpected cost hard to predict and inflation
+      - +1% above regular inflation for healthcare inflation
+      - post 1950 evolved from 2% to 18%
+*** Major Points of Inflection
+    - 1930
+      - BCBS
+      - Kaiser
+    - 1940
+      - WWII
+      - employer substitute for wages pays healthcare
+      - 1942 employers asked govmt to allow substitue wages for coverage and tax free
+      - due to wage freeze
+      - evolved into $250 subsidy to workers
+    - 1945
+      - McCarrian Ferguson Act
+	- no cross state insurance
+	- hard to admin claims across large distances
+	- can affect premiums
+    - 1966
+      - Medicare
+    - 1974
+      - HMO coined in MN
+      - Like Kaiser but get federal dollars to create incentives for physicians and hosp (United Health) to set up Kaiser like system
+      - ERISA
+	- Employee Retirement Income Security Act
+	- self insure; employer to purchase healthcare out of reserves
+	- associated with 401K
+      - Medicare moved from cost + to fixed fee
+    - 1992
+      - Physican fee schedule for Medicare
+	- private insurers adopt
+      - 1990
+	- chronic diseases handled by disease management companies
+	- Prescription drugs get seperate coverage
+      - 1996
+	- HSA
+	- like Clinton's ideas
+      - 2001
+	- HSA take off and pass Congress in 2003
+	- Medicare adds perscription drugs
+      - 2006
+	- HSA growth
+	- seniors have Medicare drug coverage
+*** Health Insurance Today
+    - Insurance Models
+      - Post 2007
+      - FFS 9%
+      - HMO 24%
+	- supported by Clinton admin
+      - PPO 65%
+      - Consumer Driven Health Plans 2%
+      - 2013
+	- huge growth of consumer driven plans 4%->24%
+	- due to declines in HMO
+      - Insurance Tower of Babel
+	- PPO: Preferred Provider Org
+	- IDS: Integrated Delivery Sys
+	- HMO: Health Maintenance Org
+	- PHO: Physician Hospital Org
+	- IPA: Independent Practice Assoc
+	- POS: Point of Service
+	- CDHP: Consumer Driven Health Plan
+	- HDHP: High Deductible Health Plan
+	- Gatekeeper: Physician controls patient access
+      - CDHP
+	- first in 2000-2004 started showing up
+	- leased claims systems and networks of physicians
+	- lease Rx benefits
+	- Internet supported claims and disease management advances
+	- ERISA
+	  - employers who paying for healthcare themselves engaged employees to put skin in the game
+	- Have HRA (Health Reimbursement Account)
+	  - employer allocation
+	  - roll over
+	  - apply toward deductible
+	  - once exhausted then pay deductible then full coverage
+	  - came with innovative web based tools
+	  - nurse health coaching
+	  - 100% coverage for mother child care that was integrated into premium
+      - HSA
+	- national provider network
+	- annual deductible but covers cost afterwards
+    - Demand Side Control Programs
+      - coinsurance, copayments, deductibles
+      - gatekeepers
+      - disease management
+      - mitigate moral hazard
+    - Supply Side Control Programs
+      - Fee schedules
+      - DRG
+      - RBRVS (physicians)
+      - ulitilization management where insurance company can say 'no'
+	- prior auth
+      - reduce provider induced demand
+    - Market Success & Failures
+      - primary funding source for medical innovation
+      - more provider and tx choices
+      - less rationing
+      - flexible market creates workarounds for changing health economy
+      - Failures
+	- cost are going up
+	- 37 million uninsured (down from 54)
+	  - some are undocumented workers
+**** Quiz Prep
+Close
+Evolution of Health Insurance
+5/5 points earned (100%)
+
+Excellent!
+Retake
+Course Home
+
+Correct
+1 / 1 points
+1. 
+During what decade did insurance become a substitute for wages in the U.S.?
+
+1930s
+
+1940s
+Correct Response 
+
+1950s
+
+1960s
+
+Correct
+1 / 1 points
+2. 
+In which state was the term HMO coined?
+
+California
+
+Delaware
+
+Minnesota
+Correct Response 
+Minnesota is the state where the term HMO was first coined.
+
+North Carolina
+
+Correct
+1 / 1 points
+3. 
+What ‘new’ type of health plans are on the rise?
+
+Fee-for-Service Plans
+
+HMOs
+
+Preferred Provider Organizations
+
+Consumer Driven Health Plans
+Correct Response 
+
+Correct
+1 / 1 points
+4. 
+The Medicare program is designed to primarily cover:
+
+The aged
+Correct Response 
+Correct. The program covers the aged and the disabled as well as those with End Stage Renal disease.
+
+The poor
+
+Correct
+1 / 1 points
+5. 
+ERISA (Employee Retirement Income Security Act):
+
+Led to the creation of 401K retirement accounts.
+Correct Response 
+
+Was the inspiration for punk rock in America.
+Correct Response 
+While possible that leading punk group Blondie's song writers got bored as retirement financial planners, not likely.
+
+Led to creation of large self-insured employers.
+Correct Response 
+
+** Health Reform Now and Eternal
+*** The Uninsured Problem
+    - insurance system is robust but not every covered
+    - what market failure resulting in uninsured
+    - insurance by poverty level in 2015 10% uninsured
+    - poor 37% uninsured if below federal poverty level (FPL)
+    - High income ony 6% uninsured
+    - Type of uninsured
+      - 2003 study over four years
+      - 12% always uninsured (10 million)
+      - 8% transistioned to insur
+      - 19% had gap
+      - 6% temp
+      - 33% in/out frequently
+    - Geo Variation
+      - mid west is low
+      - TX & FL very high
+	- did not accept medicaid expansion
+	- childless not covered
+    - Avg annual premiums
+      - over 10 yrs 1999-2014
+      - by 2025 $28K per family
+      - almost tripled in 10yrs
+    - Effect
+      - greater morbidity
+      - stress
+      - mortality increase
+      - sense of equality
+      - diminished quality and access, capacity
+*** America's 100 Year Health Reform Opera
+    - desired end is to insure people
+    - increasing coverage
+    - Gradualism: policyof approaching desired end by gradual degrees
+    - NHI: National Health Insurance
+    - AMA's support of social security came at cost of NHI in 1936
+    - Medicare & Medicaid were comprimise to NHI
+    - What is minimal form of insur can live with?
+      - high deductible
+      - POS
+      - HSA
+      - FFS
+      - PPO
+      - HMO (physicians are salaried and have hosp)
+*** Current US Health Reform
+    - Pay or Play
+      - employers pay for insur or participate in ACA
+      - started in 1992 but failed
+      - states have trouble getting out
+    - NHI
+      - proposed in 1918, 1935, 1948, 1965, 1974, 1994
+      - WW I, II could not drive it, unclear what would now
+    - Incremental coverage
+      - provided success but could be more expensive over long run
+    - ACA
+      - exchanges or now called market places
+      - mandated minumums
+      - eligibility based on income < 133% poverty
+      - Section 125 Medicaid market
+      - 2014; passed in 2010
+      - CMS Innovation Center
+      - providers  get lump sum for care (bundle)
+      - Group Home: group gets assigned population to care for
+      - Value based purchasing
+      - Medicare incentives/penalties
+      - Bundles: payment for set of conditions
+      - CBO estimated cost would 940 billion but studies show up to 1.36 trillion
+      - cost support medicaid expansion and CHIP
+      - exchange credits
+      - Funding comes from reduced physician fees for Medicare but not fully implemented
+	- Medicare savings
+	- reduction in FFS updates
+      - CBO estimates that $122 billion savings but risk may not happen
+	- market basket creates physicans not getting equal payment if not in hosp
+	- excise tax for medical devices which has been suspended
+	- CLASS Acit was eliminated
+	- most components that were supposed to pay for ACA have been removed
+	- $540 billion cost likely resulting
+*** Future Health Reform Part 1
+    - technology good for society but huge cost driver
+    - nothing in bills will measurably bend cost curve down
+    - HI actuaries find best way to keep cost down is through catastrophic/high-deductible insur
+    - Behaviorial
+      - hard to say no to poor health choices
+    - 1992 Bush bi-partisan proposal of ACA similar act & EMR Standards
+      - republican led proposal
+    - MN is one of founders of Exchange concept
+      - many entities have to contribute information to make exchange possible
+    - ACA had technological and process issues in 2013 enrollment for 2014
+    - Now getting more people covered than projected
+    - Privacy Issue
+      - integrating databases was risky
+      - planning started in 2010 and even now in 2016 still has a lot of manual interaction
+*** Future Health Reform Part 2
+    - Data Hack
+      - Anthem
+	- led to identity theft liabilities
+    - Major reforms
+    - Medicaid Expansion
+      - 2012 Supreme Court allowed states to opt in
+	- In Tx no coverage; 22 total states
+	- 50% of expansion only implemented
+      - SCOTUS felt loss of money was federal coercision
+	- remedy was legislate that states could choose
+	- Medicaid now political football
+    - Vision
+      - Establish risk profiles for individuals to share with exchanges and shop for best rates
+      - Government and private exchange portals
+      - Where market fails auction off high risk to private
+      - Let employer market evolve
+    - GOP looking for solution
+    - NHI
+    - Medical device repeal?
+    - What states take expansion
+    - ACA benefit inclusion
+    - Device manufactures concerned cost could be bundled with hospital cost
+**** Quiz Prep
+Close
+Health Reform Now and Eternal
+5/5 points earned (100%)
+
+Excellent!
+Retake
+Course Home
+
+Correct
+1 / 1 points
+1. 
+When were major national health insurance proposals of interest at the presidential level?
+
+1910s
+Correct Response 
+Tail end of Wilson Administration.
+
+1920s
+Correct Response 
+Go go years. Pre-depression. Not considered.
+
+1940s
+Correct Response 
+1946 and 1948 by President Truman.
+
+1970s
+Correct Response 
+Senator Ted Kennedy and President Richard Nixon where drivers.
+
+Correct
+1 / 1 points
+2. 
+What does the P in HIPAA stand for?
+
+Privacy
+
+Portability
+Correct Response 
+
+Correct
+1 / 1 points
+3. 
+While NHI (National Health Insurance) did not receive U.S. funding from congress, another group did. Which one?
+
+NIH
+Correct Response 
+National Institutes of Health got a major cash infusion spread between their government campuses and research universities.
+
+HNI
+
+Correct
+1 / 1 points
+4. 
+What kind of health reform has the U.S. experienced?
+
+Incremental
+Correct Response 
+Starting with Medicare/Medicaid and forward.
+
+Revolutionary
+
+Correct
+1 / 1 points
+5. 
+The original legislative goal of Johnson Administration for Medicare was:
+
+National Health Insurance
+Correct Response 
+Medicare and Medicaid were a compromise.
+
+Coverage for illegal immigrants
+
+
+
+**** Week Quiz
+Close
+Insurance Market
+
+Passed
+9/10 points earned (90%)
+Quiz passed!
+Back to Week 3
+Correct
+1 / 1 points
+1. 
+When one of two or more parities with an agreement has an incentive after the agreement is made to act in a manner that brings additional benefits to himself or herself at the expense of the other party this is called _____________.
+Correct
+1 / 1 points
+2. 
+The tendency for people to enter into agreements in which they use private information to their own advantage and to the disadvantage of the less informed party is called _____________________.
+
+Correct
+1 / 1 points
+3. 
+Which of the below is an example of moral hazard?
+
+Correct
+1 / 1 points
+4. 
+If a choice set for insurance ranges between 0 and 100, the like implications is the contract is _____________________?
+
+Incorrect
+0 / 1 points
+5. 
+If a person has probability of death of 10% and their utility ranges between 0 and 1,000, what is their expected utility?
+
+
+Correct
+1 / 1 points
+6. 
+Which of the below is an example of adverse selection?
+
+Correct
+1 / 1 points
+7. 
+Is this an illustration of adverse selection or moral hazard? A person buys a low-copay policy because they have diabetes and did not report it.
+
+Correct
+1 / 1 points
+8. 
+What kind of health plans are more likely to diminish the adverse selection problem?
+
+
+Correct
+1 / 1 points
+9. 
+Which came first?
+Correct
+1 / 1 points
+10. 
+Name at least one decade when a national health insurance plan was proposed in U.S. Congress and failed.
+
+Answer should be in the form of, for example: 1860s
+
+
